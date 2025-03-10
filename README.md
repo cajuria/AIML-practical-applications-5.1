@@ -20,6 +20,11 @@ The initial review of the data shows that the field car is almost of no value as
 
 ![image](https://github.com/user-attachments/assets/ad91187a-e82e-4917-8b11-bd3dc8027c30)
 
+Find out % of missing data:
+
+![image](https://github.com/user-attachments/assets/44b3adf7-b5ac-4027-a493-0974f81ceb15)
+
+
 ### Next steps: 
 * Drop car value
 * Create Multiple charts for analysis: 
