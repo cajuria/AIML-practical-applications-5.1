@@ -7,8 +7,8 @@ The initial review of the data shows that the field car is almost of no value as
 ![image](https://github.com/user-attachments/assets/ad91187a-e82e-4917-8b11-bd3dc8027c30)
 
 Next steps: 
-Drop car value
-Create Multiple charts for analysis: 
+* Drop car value
+* Create Multiple charts for analysis: 
 By Coupon types
 By Age
 By Expiration Type
