@@ -1,10 +1,10 @@
 # AIML-practical-applications-5.1
 CAA AIML-Practical Applications 5.1
 
-<mark>Overview<mark>
+##Overview
 In this first practical application assignment of the program, you will seek to answer the question, “Will a customer accept the coupon?” The goal of this project is to use what you know about visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those who did not.
 
-Data
+##Data
 This data is from the UCI Machine Learning Repository and was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios, including the destination, current time, weather, and passenger, and then asks people whether they will accept the coupon if they are the driver.There are three possible answers people can choose from:
 
 *“Right away”
@@ -13,14 +13,14 @@ This data is from the UCI Machine Learning Repository and was collected via a su
 =>> The first two responses are labeled as “Y = 1,” and the third is labeled as “Y = 0.” There are five different types of coupons: Less expensive restaurants (under $20), coffee houses, carryout and takeaway, bars, and more expensive restaurants ($20–$50).
 
 
-Initial Analysis
+##Initial Analysis
 
 The initial review of the data shows that the field car is almost of no value as it only contains 108 entries out of 12,684, thus obtaining a medain or similar value would not be representative of the data:
 
 
 ![image](https://github.com/user-attachments/assets/ad91187a-e82e-4917-8b11-bd3dc8027c30)
 
-Next steps: 
+###Next steps: 
 * Drop car value
 * Create Multiple charts for analysis: 
 * By Coupon types
