@@ -22,7 +22,7 @@ The initial review of the data shows that the field car is almost of no value as
 
 Find out % of missing data:
 
-![image](https://github.com/user-attachments/assets/44b3adf7-b5ac-4027-a493-0974f81ceb15)
+![image](https://github.com/user-attachments/assets/4605b5fc-4e84-44e8-986d-a3a263a4679e)
 
 
 ### Next steps: 
@@ -41,5 +41,9 @@ Find out % of missing data:
 * By Gender in General
 * BY Destination
 
+## Analysis Highlights
+Customer with High School education tend to have ahifger acceptance rates and the acceptance rate decreases as does the education level
+
+![image](https://github.com/user-attachments/assets/253f81fc-6982-4187-ac05-865fb4aa4357)
 
 
