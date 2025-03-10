@@ -20,7 +20,7 @@ The initial review of the data shows that the field car is almost of no value as
 
 ![image](https://github.com/user-attachments/assets/ad91187a-e82e-4917-8b11-bd3dc8027c30)
 
-Find out % of missing data:
+### Find out % of missing data:
 
 ![image](https://github.com/user-attachments/assets/4605b5fc-4e84-44e8-986d-a3a263a4679e)
 
