@@ -42,6 +42,7 @@ Find out % of missing data:
 * By Gender in General
 * BY Destination
 * By Income
+* By Carry out and take away by destination
 
 ## Analysis Highlights
 ### General Overview
@@ -53,5 +54,12 @@ Most other charts do not sho major differences, including gender, age, etc
 Customer with High School education tend to have a higher acceptance rates, and the acceptance rate decreases as does the education level, which would be interesting to further follow up
 
 ![image](https://github.com/user-attachments/assets/253f81fc-6982-4187-ac05-865fb4aa4357)
+
+## Recommendations:
+Furher research if the Acceptance by Destination (Not urgent) can be further explored, home and work seem evenly split and could further determine if a coffe on the way to work or a drink at the bar at the end of a day might be enticeing, as well as a take away for dinner as the charts showcase.
+
+When not in a rush drivers area almost evenly divided between restaurant and take out.
+
+## Final Note: The problem presented was too broad to the point that I had a hard time getting started and figuring out which route to go. Additionally never having used GitHub my account was blocked for a couple of weeks. Overall the Github use is an area that still requires much more exploring.
 
 
