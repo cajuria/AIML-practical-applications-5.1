@@ -60,6 +60,7 @@ Furher research if the Acceptance by Destination (Not urgent) can be further exp
 
 When not in a rush drivers area almost evenly divided between restaurant and take out.
 
-## Final Note: The problem presented was too broad to the point that I had a hard time getting started and figuring out which route to go. Additionally never having used GitHub my account was blocked for a couple of weeks. Overall the Github use is an area that still requires much more exploring.
+## Final Note: 
+The problem presented was too broad to the point that I had a hard time getting started and figuring out which route to go. Additionally never having used GitHub my account was blocked for a couple of weeks. Overall the Github use is an area that still requires much more exploring.
 
 
