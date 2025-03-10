@@ -26,8 +26,9 @@ Find out % of missing data:
 
 
 ### Next steps: 
-* Drop car value
-* Create Multiple charts for analysis: 
+ Drop car value
+ Create Multiple charts for analysis: 
+* General acceptance
 * By Coupon types
 * By Age
 * By Expiration Type
@@ -40,8 +41,12 @@ Find out % of missing data:
 * By Coupon Tyoe and Gender
 * By Gender in General
 * BY Destination
+* By Income
 
 ## Analysis Highlights
+### General Overview
+General 
+
 ### Acceptance by Education
 Customer with High School education tend to have a higher acceptance rates, and the acceptance rate decreases as does the education level
 
