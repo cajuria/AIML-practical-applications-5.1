@@ -45,10 +45,12 @@ Find out % of missing data:
 
 ## Analysis Highlights
 ### General Overview
-General 
+General acceptance shows a 57% ratio
+Cofee House is the most accepted coupon by type
+Most other charts do not sho major differences, including gender, age, etc
 
 ### Acceptance by Education
-Customer with High School education tend to have a higher acceptance rates, and the acceptance rate decreases as does the education level
+Customer with High School education tend to have a higher acceptance rates, and the acceptance rate decreases as does the education level, which would be interesting to further follow up
 
 ![image](https://github.com/user-attachments/assets/253f81fc-6982-4187-ac05-865fb4aa4357)
 
